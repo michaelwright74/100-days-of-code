@@ -1,30 +1,23 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log - Michael Wright
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: October 26, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started learning JavaScript using the resources I mention in my Medium post. Created 2 small scripts extending a couple of exercises from the courses.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+I also installed and used Git for the first time and in the process completed the Hacktoberfest challenge.
 
-**Link to work:** [Calculator App](http://www.example.com)
+Published a Medium post with more info.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Thoughts:** Although I've only scratched the surface of the basics of JS I'm surprised how well I'm taking it in. Hope this continues ;)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Links to work:** 
+1. [Simple script that takes an age and returns a certain text depending on that age.](https://codepen.io/michaelwright74/pen/vWBEPx)
+2. [A very simple number guessing game.] (https://codepen.io/michaelwright74/pen/eeOZXd)
+3. [Medium Post] (https://medium.com/@michaelwright74/day-1-of-my-100daysofcode-b91065256a96)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Goals for Tomorrow:**
+1. Complete more Codecademy & freeCodeCamp lessons.
+2. Watch more Javascript videos from the courses.
+3. Create some more pens.
+4. Publish another Medium post.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
