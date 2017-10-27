@@ -1,6 +1,27 @@
 # 100 Days Of Code - Log - Michael Wright
 
-### Day 1: October 26, 2017
+## Day 2: October 27, 2017
+
+**Today's Progress**:
+1. **freeCodeCamp** - Did 12 exercises finishing the Bootstrap section.
+2. **Codecademy** - Completed Introduction to Javascript: Introduction to Javascript, Learn Git: Basic Git Workflow & Learn Git: How to Backtrack in Git.
+3. **GitHub** - Forked the 100-days-of-code repo and started this log.
+4. **Sololearn** - Joined and completed the Overview & Basic Concepts modules of the Javascript Tutorial.
+5. **Scotch.io - Getting Started with JavaScript** - Completed the first 7 lessons.
+6. **The Web Developer Bootcamp Udemy Course** - Completed the Javascript Basics Control Flow Module.
+
+**Thoughts** It's 11:20pm and it's been a long day of learning. Maybe using so many sources is slowing me down but I feel it's helping me understand things a lot more fully. Most of what I've learned today has been focused around loops in Javascript and I feel I've got a decent understanding of them to take forward.
+
+I'm finding the scotch.io course to be a lot more fast moving than the others and so far it's the only one that has mentioned ES6. The main takeaway on that so far is using *const* or *let* instead of *var* to declare a variable.
+
+All in all it's been a tiring but I feel productive day.
+
+**Links to Work:**
+1. [while loops pset](https://codepen.io/michaelwright74/pen/GOKVwr?editors=1111)
+2. [for loops pset](https://codepen.io/michaelwright74/pen/POoqXd?editors=1111)
+3. [Multiplication Tables Using a for loop](https://codepen.io/michaelwright74/pen/POoNWE)
+
+## Day 1: October 26, 2017
 
 **Today's Progress**: Started learning JavaScript using the resources I mention in my Medium post. Created 2 small scripts extending a couple of exercises from the courses.
 
@@ -10,14 +31,11 @@ Published a Medium post with more info.
 
 **Thoughts:** Although I've only scratched the surface of the basics of JS I'm surprised how well I'm taking it in. Hope this continues ;)
 
-**Links to work:** 
+**Links to Work:** 
 1. [Simple script that takes an age and returns a certain text depending on that age.](https://codepen.io/michaelwright74/pen/vWBEPx)
 2. [A very simple number guessing game.](https://codepen.io/michaelwright74/pen/eeOZXd)
 3. [Medium Post](https://medium.com/@michaelwright74/day-1-of-my-100daysofcode-b91065256a96)
 
-**Goals for Tomorrow:**
-1. Complete more Codecademy & freeCodeCamp lessons.
-2. Watch more Javascript videos from the courses.
-3. Create some more pens.
-4. Publish another Medium post.
+
+
 
