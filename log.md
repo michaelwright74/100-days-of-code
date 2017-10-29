@@ -1,16 +1,31 @@
 # 100 Days Of Code - Log - Michael Wright
 
+## Day 3 & 4: October 28 & 29, 2017
+
+**Today's Progress:**
+1. **freeCodeCamp** - Completed the first 40 exercises of the Basic Javascript Module. Note: I plan to leave the jQuery module until I have learned more Javascript.
+2. **Codecademy** - Completed the following modules from Introduction to Javascript: Variables, Control Flow, Functions and Scope.
+3. **Sololearn** - Completed the Conditionals & Loops and Functions modules of the Javascript Tutorial. Also completed the whole of HTML Fundamentals.
+4. **The Web Developer Bootcamp Udemy Course** - Completed the Javascript Basics - Functions Module.
+
+**Thoughts:** Been feeling pretty under the weather this weekend but kept learning more Javascript. Things are definitely getting more complex the further into the courses I go. I think I've got the fundamentals of functions down now though but it's been hard going. Early finish to Day 4 (Sunday) and back to it tomorrow hopefully feeling refreshed and raring to go.
+
+**Links to Work:**
+1. [Added 2 extra conditions to my age checker from Day 1 to cover text, negatives or decimals being entered.](https://codepen.io/michaelwright74/pen/vWBEPx)
+ 
+
+
 ## Day 2: October 27, 2017
 
-**Today's Progress**:
+**Today's Progress:**
 1. **freeCodeCamp** - Did 12 exercises finishing the Bootstrap section.
 2. **Codecademy** - Completed Introduction to Javascript: Introduction to Javascript, Learn Git: Basic Git Workflow & Learn Git: How to Backtrack in Git.
 3. **GitHub** - Forked the 100-days-of-code repo and started this log.
 4. **Sololearn** - Joined and completed the Overview & Basic Concepts modules of the Javascript Tutorial.
 5. **Scotch.io - Getting Started with JavaScript** - Completed the first 7 lessons.
-6. **The Web Developer Bootcamp Udemy Course** - Completed the Javascript Basics Control Flow Module.
+6. **The Web Developer Bootcamp Udemy Course** - Completed the Javascript Basics - Control Flow Module.
 
-**Thoughts** It's 11:20pm and it's been a long day of learning. Maybe using so many sources is slowing me down but I feel it's helping me understand things a lot more fully. Most of what I've learned today has been focused around loops in Javascript and I feel I've got a decent understanding of them to take forward.
+**Thoughts:** It's 11:20pm and it's been a long day of learning. Maybe using so many sources is slowing me down but I feel it's helping me understand things a lot more fully. Most of what I've learned today has been focused around loops in Javascript and I feel I've got a decent understanding of them to take forward.
 
 I'm finding the scotch.io course to be a lot more fast moving than the others and so far it's the only one that has mentioned ES6. The main takeaway on that so far is using *const* or *let* instead of *var* to declare a variable.
 
