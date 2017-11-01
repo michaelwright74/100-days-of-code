@@ -1,6 +1,17 @@
 # 100 Days Of Code - Log - Michael Wright
 
-## Day 3 & 4: October 28 & 29, 2017
+## Days 5 & 6: October 30 & 31, 2017
+
+**Today's Progress:**
+1. **Codecademy** - Completed the following modules from Introduction to Javascript: Arrays, Loops and Iterators.
+2. **Scotch.io - Getting Started with JavaScript** - Completed lesson 8.
+3. **The Web Developer Bootcamp Udemy Course** - Completed the Javascript Basics - Arrays Module.
+4. **freeCodeCamp** - Completed a further 38 exercises in the Basic Javascript Module.
+5. **The Complete Web Developer Course 2.0 (Udemy)** - Completed the videos on Arrays, If Statements and Loops.
+
+**Thoughts** Lot's more working through videos and exercises done. Am looking forward to getting to the stage where I learn about working with the DOM so I can build some proper things rather than just working with alert and console.log. Everything still going Okay though.
+
+## Days 3 & 4: October 28 & 29, 2017
 
 **Today's Progress:**
 1. **freeCodeCamp** - Completed the first 40 exercises of the Basic Javascript Module. Note: I plan to leave the jQuery module until I have learned more Javascript.
@@ -13,8 +24,6 @@
 **Links to Work:**
 1. [Added 2 extra conditions to my age checker from Day 1 to cover text, negatives or decimals being entered.](https://codepen.io/michaelwright74/pen/vWBEPx)
  
-
-
 ## Day 2: October 27, 2017
 
 **Today's Progress:**
