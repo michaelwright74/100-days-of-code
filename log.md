@@ -1,10 +1,25 @@
 # 100 Days Of Code - Log - Michael Wright
 
+## Days 7 & 8: November 1 & 2, 2017
+
+**Today's Progress:**
+1. **The Complete Web Developer Course 2.0 (Udemy)** - Finished the Javascript section.
+2. **The Web Developer Bootcamp Udemy Course** - Completed the Javascript Basics - Objects Module.
+3. **Codecademy** - Completed the following modules from Introduction to Javascript: Objects.
+4. **freeCodeCamp** - Completed a further 18 exercises in the Basic Javascript Module.
+5. **Scotch.io - Getting Started with JavaScript** - Completed lesson 9 - Objects and lesson 10 - Built in Objects.
+6. **Sololearn** - Completed the Objects and Core Objects modules of the Javascript Tutorial.
+
+**Thoughts:** Delving into more complex subject matters and it's definitely taking longer for things to fully sink in which is slowing down progress. Finally getting more into the DOM from tomorrow which I'm happy about. It should let me put in more time working on the practical side of things rather than just the theory so hopefully that will help me put things together more easily.
+
+**Links to Work**
+1. [A Reaction Timing Game with time taken, fastest time, number of plays and average time](https://codepen.io/michaelwright74/pen/OOMLdW)
+
 ## Days 5 & 6: October 30 & 31, 2017
 
 **Today's Progress:**
 1. **Codecademy** - Completed the following modules from Introduction to Javascript: Arrays, Loops and Iterators.
-2. **Scotch.io - Getting Started with JavaScript** - Completed lesson 8.
+2. **Scotch.io - Getting Started with JavaScript** - Completed lesson 8 - Functions.
 3. **The Web Developer Bootcamp Udemy Course** - Completed the Javascript Basics - Arrays Module.
 4. **freeCodeCamp** - Completed a further 38 exercises in the Basic Javascript Module.
 5. **The Complete Web Developer Course 2.0 (Udemy)** - Completed the videos on Arrays, If Statements and Loops.
